@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_when_needed" label="When needed" language="en" table="x_548386_hello_wor_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_when_needed</element>
+            <help/>
+            <hint/>
+            <label>When needed</label>
+            <language>en</language>
+            <name>x_548386_hello_wor_needit</name>
+            <plural>When needed</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-27 06:40:45</sys_created_on>
+            <sys_id>e37af5ea2f40a010393ed5f62799b691</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>When needed</sys_name>
+            <sys_package display_value="Hello World" source="x_548386_hello_wor">6e2834de2f446010393ed5f62799b633</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hello World">6e2834de2f446010393ed5f62799b633</sys_scope>
+            <sys_update_name>sys_documentation_x_548386_hello_wor_needit_u_when_needed_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-27 06:40:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
